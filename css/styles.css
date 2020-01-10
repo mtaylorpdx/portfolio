@@ -1,7 +1,6 @@
 body {
-  background-color: white;
+  background-image: url(../img/bg.jpg)
 }
-
 
 .jumbotron {
   text-align: center;
@@ -9,10 +8,6 @@ body {
   background: transparent !important;
 }
 
-.panel {
-  background: aliceblue;
-  height: 300px;
-}
 
 .strong {
   font-style: oblique;
@@ -23,10 +18,18 @@ h3 {
   font-style: oblique;
 }
 
-p {
-  font-size: 16px;
-}
 
 .uses {
   font-style: italic;
+}
+
+
+.about .panel {
+  background: aliceblue;
+  height: 300px;
+}
+
+.personal .panel {
+  background: rgba(236, 236, 236, 0.4);
+  height: 250px;
 }
