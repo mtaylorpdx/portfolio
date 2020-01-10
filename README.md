@@ -17,9 +17,9 @@ Email [@Matt Taylor](taylor.matt@protonmail.com)
 
 ## Github
 
-[Github](github.com/mtaylorpdx/portfolio)
+[Github](https://github.com/mtaylorpdx/portfolio)
 
-[Github Pages](mtaylorpdx.github.io/portfolio)
+[Github Pages](https://mtaylorpdx.github.io/portfolio)
 
 ### License
 Licensed under the MIT Licence

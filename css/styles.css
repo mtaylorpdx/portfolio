@@ -1,10 +1,7 @@
-.btn {
-  justify-content:center;
-}
-
 .jumbotron {
   text-align: center;
   padding: 12px;
+  background: transparent !important;
 }
 
 .panel {
@@ -12,9 +9,14 @@
 }
 
 .strong {
-  font-style: oblique;
+  font-style: oblique !important;
 }
 
 .well {
   background: aliceblue;
+  padding: 5px;
+}
+
+h3 {
+  font-style: oblique;
 }
