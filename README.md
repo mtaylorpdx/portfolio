@@ -13,7 +13,7 @@ This project demonstrates an understanding of Epicodus week 1 concepts utilizing
 * Open index.html in browser
 
 ## Support and Contact Details
-Email [@Matt Taylor](taylor.matt@protonmail.com)
+Email [@Matt Taylor](mailto:taylor.matt@protonmail.com)
 
 ## Github
 

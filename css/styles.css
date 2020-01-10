@@ -11,23 +11,20 @@ body {
 
 .panel {
   background: aliceblue;
+  height: 300px;
 }
 
 .strong {
-  font-style: oblique !important;
+  font-style: oblique;
 }
 
-.well {
-  background: aliceblue;
-  padding: 5px;
-}
 
 h3 {
   font-style: oblique;
 }
 
 p {
-  font-size: 12px;
+  font-size: 16px;
 }
 
 .uses {
