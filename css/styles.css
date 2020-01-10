@@ -1,5 +1,6 @@
 body {
-  background-image: url(../img/bg.jpg)
+  background-image: url(../img/bg.jpg);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .jumbotron {
@@ -18,9 +19,17 @@ h3 {
   font-style: oblique;
 }
 
+h6 {
+  font-size: larger;
+}
+
+img {
+  float:left;
+}
 
 .uses {
   font-style: italic;
+  font-size: smaller;
 }
 
 
