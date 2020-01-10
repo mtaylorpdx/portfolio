@@ -2,6 +2,11 @@
   justify-content:center;
 }
 
+.jumbotron {
+  text-align: center;
+  padding: 12px;
+}
+
 .panel {
   background: aliceblue;
 }
