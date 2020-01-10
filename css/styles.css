@@ -5,3 +5,11 @@
 .panel {
   background: aliceblue;
 }
+
+.strong {
+  font-style: oblique;
+}
+
+.well {
+  background: aliceblue;
+}
